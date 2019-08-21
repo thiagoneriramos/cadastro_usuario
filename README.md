@@ -1,2 +1,5 @@
-# cadastro_usuario
-Página de login e cadastro de usuario conforme especificação
+# instale as dependencias
+npm install
+
+# server em localhost:8080
+npm run dev
