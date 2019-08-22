@@ -27,8 +27,16 @@ usuário logado
   - Disponibilização da aplicação em um provedor de cloud como por exemplo AWS ou Google. Os
 mesmos possuem período de avaliação gratuita caso o usuário deseje disponibilizar o seu trabalho.
 
+# Para rodar o projeto
+- Necessário instalar node >= 4.0.0  e npm >= 3.0.0
+
+
 # instale as dependencias
 npm install
 
 # server em localhost:8080
 npm run dev
+
+# observações finais
+Por conta do tempo disponivel para execução da avaliação e também da pouca familiaridade com a linguaguem vue.js, somente foi possivel realizar essa parte de login e cadastro, usei bootstrap pois tenho conhecimento nessa parte. Tente usar localstorage no vue pra salvar as credenciais de acesso, mas nao conseguir, porque não tenho tanta familiaridade com a linguaguem. 
+
